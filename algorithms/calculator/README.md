@@ -5,7 +5,7 @@ Status: unfinished
   C written calculator which is able to solve complex math computations (that consists of 2+ operations).
   The main idea is to use recursive method of simplifying the user's string until it finaly converts to the solution.
   
-  For instance:
+  Exapmle of recursive converting:
   
     2 + 2 * 2 + 3 * 3
     
